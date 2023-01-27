@@ -33,6 +33,8 @@ It is necssary to run four anaconda prompts simultaneously for the whole applica
 
 #### First anaconda prompt : Runs the jupyter notebook in reserach environment.
 
+Serves at : `http://localhost:8888`
+
 #### Second anaconda prompt : Runs the MLflow UI which generates an interface for tracking, registering and productionizing the machine learning model of interest.
 
 Serves at : `http://127.0.0.1:5000`

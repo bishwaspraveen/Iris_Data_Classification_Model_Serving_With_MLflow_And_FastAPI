@@ -1,6 +1,6 @@
 ## Serving an Iris Data Classification model using Logistic Regression on FastAPI with MLflow Server Endpoint
 
-### Step 1 : Adding an experiment from reserach environment to MLflow for experiment tracking.
+### Step 1 : Adding an experiment from research environment to MLflow for experiment tracking.
 ![mlflow1](https://user-images.githubusercontent.com/79660080/215206183-f2acfa0f-650f-4670-8d70-f5c899abd657.PNG)
 
 ### Step 2 : Registering the model which produces the best results and uses sqlite on the backend for information storage on MLflow.
